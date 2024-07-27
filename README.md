@@ -12,3 +12,5 @@
 ### Output: Annotated Text Files
 
 ### NLP_Knowledge Graphs1.ipynb: Different NLP techniques are carried out on the text file, such as Tokenization, Lemmatization, POS Tagging,Dependency Parsing, NER Tagging
+
+### NLP_Ambiguities.ipynb: Lexical ambiguities and Word Sense Disambuiguation (WSD).
