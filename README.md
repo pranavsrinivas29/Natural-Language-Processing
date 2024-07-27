@@ -10,3 +10,5 @@
 ### In corpus linguistics, part-of-speech tagging (POS tagging or PoS tagging or POST), also called grammatical tagging is the process of marking up a word in a text (corpus) as corresponding to a particular part of speech, based on both its definition and its context.
 
 ### Output: Annotated Text Files
+
+### NLP_Knowledge Graphs1.ipynb: Different NLP techniques are carried out on the text file, such as Tokenization, Lemmatization, POS Tagging,Dependency Parsing, NER Tagging
